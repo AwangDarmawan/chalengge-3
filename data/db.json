@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "title": "Kacamata",
+      "completed": true,
+      "id": 1
+    },
+    {
+      "title": "Baju",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "title": "Celana",
+      "completed": true,
+      "id": 3
+    },
+    {
+      "title": "Topi",
+      "completed": true,
+      "id": 4
+    },
+    {
+      "title": "Jaket",
+      "completed": false,
+      "id": 5
+    }
+  ]
+}
